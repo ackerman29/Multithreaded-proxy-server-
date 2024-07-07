@@ -37,7 +37,7 @@ Open http://localhost:port "portnumber"/https://www.cs.princeton.edu/
 
 <img width="886" alt="Screenshot 2024-07-06 at 3 23 57 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/0c28bbf0-08a7-4d8e-8a46-522716abe1fe">
 
-
+# NOTE
 This code can only be run in Linux Machine. Please disable your browser cache.(TRY INCOGNITO MODE)
 To run the proxy without cache Change the name of the file (proxy_server_with_cache.c to proxy_server_without_cache.c) MakeFile.
 
