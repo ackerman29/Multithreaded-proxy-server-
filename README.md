@@ -30,12 +30,14 @@ Open http://localhost:port "portnumber"/https://www.cs.princeton.edu/
 # SCREENSHOTS #
 
 <img width="756" alt="Screenshot 2024-07-06 at 3 21 02 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/4e7bcb33-59f4-4b88-9359-c92667115bab">
-<img width="862" alt="Screenshot 2024-07-06 at 3 21 17 PM" src="https://github.com/ackerman29/Multithreaded-proxy<img width="906" alt="Screenshot 2024-07-06 at 3 22 40 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/0eea4aae-2489-44c6-8b6a-58dcd530f945">
--server-/assets/104158912/5db64bfa-640a-4d0e-8989-2fb44a6f94f9">
 
-<img width="886" alt="Screenshot 2024-07-06 at 3 23 57 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/a22a76db-ef3e-4b38-b29b-4468569b56ac">
+<img width="862" alt="Screenshot 2024-07-06 at 3 21 17 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/fc8ec5bf-c6f0-45f9-bcd5-76db596812ce">
 
-# NOTE #
+<img width="906" alt="Screenshot 2024-07-06 at 3 22 40 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/90672127-c14c-40b0-8437-63640ab41f90">
+
+<img width="886" alt="Screenshot 2024-07-06 at 3 23 57 PM" src="https://github.com/ackerman29/Multithreaded-proxy-server-/assets/104158912/0c28bbf0-08a7-4d8e-8a46-522716abe1fe">
+
+
 This code can only be run in Linux Machine. Please disable your browser cache.(TRY INCOGNITO MODE)
 To run the proxy without cache Change the name of the file (proxy_server_with_cache.c to proxy_server_without_cache.c) MakeFile.
 
