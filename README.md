@@ -10,7 +10,7 @@ It can be used to restrict user from accessing specific websites.
 A good proxy will change the IP such that the server wouldn’t know about the client who sent the request.
 Changes can be made in Proxy to encrypt the requests, to stop anyone accessing the request illegally from your client.
 
-# OS COMPONENTS USED ​#
+# OS COMPONENTS USED ​
 Threading
 Locks
 Semaphore
